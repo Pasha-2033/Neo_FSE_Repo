@@ -1,0 +1,40 @@
+scripted_gui = {
+	topbar_resource_toogle_window = {
+		context_type = player_context
+		window_name = "topbar_resource_toogle_window"
+		parent_window_token = trade_tab
+		visible = {
+			NOT = {
+				original_tag = FDS
+			}
+		}
+		effects = {
+			toogle_button_click = {
+				if = { 
+					limit = {
+						check_variable = {
+							topbar_resource_mode = 1
+						}
+					}
+					set_variable = {
+						topbar_resource_mode = 0
+					}
+				}
+				else = {
+					set_variable = {
+						topbar_resource_mode = 1
+					}
+				}
+			}
+		}
+	}
+	topbar_resources= {
+		context_type = player_context
+		window_name = "topbar_resource_container"
+		visible = {
+			check_variable = {
+				topbar_resource_mode = 1
+			}
+		}
+	}
+}
