@@ -1,16 +1,14 @@
+state = {
+	id = 20
+	name = "STATE_20"
 
-state={
-	id=20
-	name="STATE_20"
-
-	history={
-		owner = TRE
-		add_core_of = TRE
+	history = {
+		owner = NLD
+		add_core_of = NLD
 		buildings = {
 			infrastructure = 2
 
 		}
-
 	}
 
 	provinces={

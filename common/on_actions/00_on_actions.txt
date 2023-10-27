@@ -3,29 +3,14 @@ on_actions = {
 		effect = {
 		
 		
-			SIX = {
-					
-				update_pop = yes
-				country_event = { id = startup.1 }	
-				
 			
-			}
 			
-			# Used for heating in SCRIPTED EFFECT FILE
-			# 2 so far is the base temp
-			# Only go from 0 - 5
-			set_variable = { weather_temp = 2 }
+			
 			
 			
 		}
 	}
 	
-	on_daily_SIX = {
-		effect = {
-			call_heating = yes
-			update_heat_button = yes
-			update_pop = yes
-		}
-	}
+	
 	
 }

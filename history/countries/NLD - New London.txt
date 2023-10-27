@@ -1,0 +1,15 @@
+capital = 19
+set_politics = {
+	ruling_party = oligarchic
+	last_election = "1916.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 10
+	oligarchic = 70
+	socialist = 0
+	despotic = 15
+	totalitarian = 5
+	anarchy = 0
+}

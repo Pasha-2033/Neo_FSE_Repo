@@ -1,6 +1,6 @@
-# Site 06 #
 
 defined_text = { # 06 Food
+	#topbar resources indicators, ignore SIX tag)
 	name = SIX_steel_text
 	text = {
 		trigger = {

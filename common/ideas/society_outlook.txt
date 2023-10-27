@@ -62,17 +62,7 @@ ideas = { #societal_outlook
 			
 			allowed = { #Will it show up
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
+
 			}
 
 			available = { #Can a nation slect it
@@ -120,17 +110,7 @@ ideas = { #societal_outlook
 			
 			allowed = { #Will it show up
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
+
 			}
 
 			available = { #Can a nation slect it
@@ -175,17 +155,7 @@ ideas = { #societal_outlook
 			
 			allowed = { #Will it show up
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
+
 			}
 
 			available = { #Can a nation slect it
@@ -231,17 +201,6 @@ ideas = { #societal_outlook
 			
 			allowed = { #Will it show up
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
 			}
 
 			available = { #Can a nation slect it
@@ -288,17 +247,6 @@ ideas = { #societal_outlook
 			
 			allowed = { #Will it show up
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
 			}
 
 			available = { #Can a nation slect it
@@ -345,17 +293,6 @@ ideas = { #societal_outlook
 			
 			allowed = { #Will it show up
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
 			}
 
 			available = { #Can a nation slect it
@@ -402,17 +339,6 @@ ideas = { #societal_outlook
 			
 			allowed = { #Will it show up
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
 			}
 
 			available = { #Can a nation slect it

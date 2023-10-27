@@ -7,17 +7,7 @@ ideas = { #Origins
 			
 			allowed = {
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
+
 			}
 
 			available = {
@@ -28,11 +18,8 @@ ideas = { #Origins
 					#NOT = { original_tag = ONE }
 					#NOT = { original_tag = NIN }
 					original_tag = TWO
-					original_tag = TRE
 					original_tag = FOR
 					original_tag = FIV
-					original_tag = SIX
-					original_tag = SEV
 					original_tag = EIG
 					original_tag = TEN
 				}
@@ -60,34 +47,12 @@ ideas = { #Origins
 			
 			allowed = {
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
 			}
 
 			available = {
 				#always = no
 				OR = {
-				
-					#NOT = { tag = IEC }
-					#NOT = { original_tag = ONE }
 					original_tag = NIN 
-					#original_tag = TWO
-					#original_tag = TRE
-					#original_tag = FOR
-					#original_tag = FIV
-					#original_tag = SIX
-					#original_tag = SEV
-					#original_tag = EIG
-					#original_tag = TEN
 				}
 			}
 			
@@ -113,34 +78,12 @@ ideas = { #Origins
 			
 			allowed = {
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
 			}
 
 			available = {
 				#always = no
 				OR = {
-				
-					#NOT = { tag = IEC }
 					original_tag = ONE 
-					#original_tag = NIN 
-					#original_tag = TWO
-					#original_tag = TRE
-					#original_tag = FOR
-					#original_tag = FIV
-					#original_tag = SIX
-					#original_tag = SEV
-					#original_tag = EIG
-					#original_tag = TEN
 				}
 			}
 			
@@ -166,17 +109,6 @@ ideas = { #Origins
 			
 			allowed = {
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
 			}
 
 			available = {
@@ -184,16 +116,6 @@ ideas = { #Origins
 				OR = {
 				
 					tag = IEC 
-					#original_tag = ONE 
-					#original_tag = NIN 
-					#original_tag = TWO
-					#original_tag = TRE
-					#original_tag = FOR
-					#original_tag = FIV
-					#original_tag = SIX
-					#original_tag = SEV
-					#original_tag = EIG
-					#original_tag = TEN
 				}
 			}
 			

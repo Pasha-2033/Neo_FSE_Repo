@@ -7,35 +7,12 @@ ideas = { #Governance Types
 			
 			allowed = {
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
+
 			}
 
 			available = {
 				always = No
-				#OR = {
-				#
-				#	#NOT = { tag = IEC }
-				#	#NOT = { original_tag = ONE }
-				#	#NOT = { original_tag = NIN }
-				#	original_tag = TWO
-				#	original_tag = TRE
-				#	original_tag = FOR
-				#	original_tag = FIV
-				#	original_tag = SIX
-				#	original_tag = SEV
-				#	original_tag = EIG
-				#	original_tag = TEN
-				#}
+
 			}
 			
 			modifier = {
@@ -64,35 +41,12 @@ ideas = { #Governance Types
 			
 			allowed = {
 				always = yes
-				#NOT = { tag = IEC }
-				#NOT = { original_tag = ONE }
-				#NOT = { original_tag = NIN }
-				#original_tag = TWO
-				#original_tag = TRE
-				#original_tag = FOR
-				#original_tag = FIV
-				#original_tag = SIX
-				#original_tag = SEV
-				#original_tag = EIG
-				#original_tag = TEN
+
 			}
 
 			available = {
 				always = No
-				#OR = {
-				#
-				#	#NOT = { tag = IEC }
-				#	#NOT = { original_tag = ONE }
-				#	#NOT = { original_tag = NIN }
-				#	original_tag = TWO
-				#	original_tag = TRE
-				#	original_tag = FOR
-				#	original_tag = FIV
-				#	original_tag = SIX
-				#	original_tag = SEV
-				#	original_tag = EIG
-				#	original_tag = TEN
-				#}
+
 			}
 			
 			modifier = {

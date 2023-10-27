@@ -13,7 +13,7 @@ TWO = {
 	color = rgb { 102 135 255 }
 	color_ui = rgb { 255 73 121 }
 }
-TRE = {
+NLD = {
 	color = rgb { 102 135 255 }
 	color_ui = rgb { 255 73 121 }
 }
@@ -33,11 +33,11 @@ EIG = {
 	color = rgb { 102 135 255 }
 	color_ui = rgb { 255 73 121 }
 }
-SEV = {
+WNH = {
 	color = rgb { 102 135 255 }
 	color_ui = rgb { 255 73 121 }
 }
-SIX = {
+TCT = {
 	color = rgb { 102 135 255 }
 	color_ui = rgb { 255 73 121 }
 }

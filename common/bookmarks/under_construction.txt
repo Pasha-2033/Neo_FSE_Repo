@@ -4,7 +4,7 @@ bookmarks = {
 		desc = "TLA_BOOKMARK_LOC"
 		date = 1922.9.22.12
 		picture = "GFX_under_construction_bookmark"
-		default_country = "SIX"
+		default_country = "FDS"
 		
 
 		"---"={

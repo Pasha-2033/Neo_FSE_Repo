@@ -1,8 +1,9 @@
 scripted_gui = {
+	#topbar resorces indicators, move to mod settings (ignore SIX tag)
 	SIX_topbar_resource_toogle_window = {
 		context_type = player_context
 
-		window_name = "topbar_resource_toogle_window"
+		window_name = "SIX_topbar_resource_toogle_window"
 		parent_window_token = trade_tab
 		visible = {
 				tag = SIX
@@ -19,8 +20,6 @@ scripted_gui = {
 
 
 	}
-	
-	
 	topbar_resources= {
 		context_type = player_context
 		window_name = "SIX_topbar_resource_container"
