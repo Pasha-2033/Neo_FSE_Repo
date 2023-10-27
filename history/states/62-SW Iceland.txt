@@ -4,8 +4,8 @@ state={
 	name="STATE_62"
 
 	history={
-		owner = IEC
-		add_core_of = IEC
+		owner = FDS
+		add_core_of = FDS
 		buildings = {
 			infrastructure = 2
 

@@ -3,8 +3,8 @@ state={
 	name="STATE_37"
 	state_category = wasteland
 	history = {
-	owner = IEC
-	add_core_of = IEC
+	owner = FDS
+	add_core_of = FDS
 		buildings = {
 		infrastructure = 2
 		}

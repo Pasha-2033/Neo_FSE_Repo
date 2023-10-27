@@ -7,107 +7,22 @@ bookmarks = {
 		default_country = "SIX"
 		default = yes
 	
-		"IEC" = {
-			history = "IEC_TLA_DESC_LOC"
+		"FDS" = {
+			history = "FDS_TLA_DESC_LOC"
 			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
-		}
-
-		"ONE" = {
-			history = "ONE_TLA_DESC_LOC"
-			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
-		}
-
-		"TWO" = {
-			history = "TWO_TLA_DESC_LOC"
-			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
-		}
-
-		"TRE" = {
-			history = "TRE_TLA_DESC_LOC"
-			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
-		}
-
-		"FOR" = {
-			history = "FOR_TLA_DESC_LOC"
-			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
-		}
-
-		"FIV" = {
-			history = "FIV_TLA_DESC_LOC"
-			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
-		}
-		
-		"SIX" = {
-			history = "SIX_TLA_DESC_LOC"
-			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
-		}
-		
-		"SEV" = {
-			history = "SEV_TLA_DESC_LOC"
-			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
-		}
-		
-		"EIG" = {
-			history = "EIG_TLA_DESC_LOC"
-			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
-		}
-		
-		"NIN" = {
-			history = "NIN_TLA_DESC_LOC"
-			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
+			#ideas = {}
+			#focuses = {}
 		}
 		
 		"TEN" = {
 			history = "TEN_TLA_DESC_LOC"
 			ideology = oligarchic
-			# ideas={
-			# }
-			# focuses = {
-			# }
+			#ideas = {}
+			#focuses = {}
 		}
 
 
-		"---"={
+		"---" = {
 			history = "TLA_BOOKMARK_LOC"
 		}
 

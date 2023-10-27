@@ -1,4 +1,10 @@
+WNH = "countries/Winterhome.txt"
+NLN = "countries/New London.txt"
+TCT = "countries/Tesla City.txt"
 
+FDS = "countries/Frosen desert.txt"
+
+#remove this tags later
 SIX = "countries/Site 06.txt"
 FIV = "countries/Site 05.txt"
 SEV = "countries/Site 07.txt"
